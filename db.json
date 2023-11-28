@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Mahesa Bima Wijaya",
+      "email": "mahesabw26@gmail.com",
+      "password": "mahesa123"
+    },
+    {
+      "id": 2,
+      "name": "Rudi Salim",
+      "email": "rudiprestige@gmail.com",
+      "password": "roodietabootie"
+    },
+    {
+      "name": "Quandale",
+      "email": "quandaledingle@gmail.com",
+      "password": "Skibiditoilet-69",
+      "id": 3
+    },
+    {
+      "name": "adadad",
+      "email": "adikeren@untirta.ac.id",
+      "password": "Adadada*22",
+      "id": 4
+    }
+  ]
+}
