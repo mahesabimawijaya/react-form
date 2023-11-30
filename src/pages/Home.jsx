@@ -4,7 +4,7 @@ export default function Home() {
   const [user, setUser] = useState([]);
 
   useEffect(() => {
-    fetch("https://periwinkle-coral-belt.cyclic.app/user")
+    fetch("http://localhost:8080/user")
       .then((res) => {
         return res.json();
       })
